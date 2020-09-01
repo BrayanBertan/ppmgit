@@ -1,0 +1,4 @@
+	 var botoes = document.getElementsByTagName('button');
+	 botoes[0].addEventListener('click',function(){
+		 window.alert('xd');
+	 });
